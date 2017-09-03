@@ -1,0 +1,262 @@
+Composite Element REF,years_to_birth,vital_status,days_to_death,days_to_last_followup,tumor_tissue_site,gender,date_of_initial_pathologic_diagnosis,radiation_therapy,histological_type,residual_tumor,race,ethnicity,
+tcga.3b.a9hj,value,68,0,NA,1104,lower extremity - groin,male,2011,yes,dedifferentiated liposarcoma,rx,white,not hispanic or latino
+tcga.3b.a9ho,value,75,0,NA,959,retroperitoneum/upper abdominal - intraabdominal,male,2012,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a3m2,value,59,0,NA,1055,retroperitoneum/upper abdominal - retroperitoneum,male,2011,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a6bk,value,85,1,492,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2009,no,dedifferentiated liposarcoma,r1,white,NA
+tcga.dx.a6yt,value,31,0,NA,2044,lower extremity - thigh/knee,female,2008,no,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.a6yu,value,50,0,NA,1045,chest - chest wall,female,2012,no,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.a7el,value,56,0,NA,2291,retroperitoneum/upper abdominal - other (please specify,female,2007,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a7et,value,71,0,NA,463,superficial trunk - abdominal wall,male,2013,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,black or african american,not hispanic or latino
+tcga.dx.a7eu,value,79,0,NA,721,lower abdominal/pelvic - pelvic,female,2013,no,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bg,value,83,0,NA,546,lower extremity - thigh/knee,female,2013,yes,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bh,value,86,1,439,NA,superficial trunk - abdominal wall,male,2013,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bp,value,85,0,NA,428,lower extremity - thigh/knee,male,2009,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r1,white,not hispanic or latino
+tcga.dx.ab2h,value,80,0,NA,482,retroperitoneum/upper abdominal - retroperitoneum,female,2013,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.ab2j,value,71,1,1235,NA,lower abdominal/pelvic - pelvic,female,2006,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r1,white,NA
+tcga.dx.ab2p,value,79,1,367,NA,lower extremity - thigh/knee,male,2005,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.ab2w,value,62,0,NA,3238,lower extremity - thigh/knee,female,2006,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.ab2x,value,73,1,404,NA,lower extremity - lower leg/calf,female,2010,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.ab30,value,53,1,695,NA,lower extremity - thigh/knee,female,2004,yes,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.ab32,value,51,0,NA,3102,chest - chest wall,male,2006,yes,myxofibrosarcoma,r0,white,NA
+tcga.dx.ab35,value,65,0,NA,928,retroperitoneum/upper abdominal - retroperitoneum,male,2012,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.ab36,value,86,1,1825,NA,chest - chest wall,male,2008,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.ab37,value,73,1,2575,NA,lower extremity - thigh/knee,female,2003,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.ab3a,value,80,1,978,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2009,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.fx.a3nk,value,53,0,NA,505,retroperitoneum/upper abdominal - gastric,male,2011,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.hb.a43z,value,58,0,NA,1126,gynecological - uterus,female,2012,yes,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.hb.a5w3,value,58,1,384,NA,retroperitoneum/upper abdominal - kidney,female,2010,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.hs.a5n9,value,58,0,NA,1585,gynecological - uterus,female,NA,no,leiomyosarcoma (lms),r0,NA,NA
+tcga.ie.a4eh,value,35,0,NA,819,gynecological - uterus,female,2011,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.if.a4ak,value,82,0,NA,1590,lower extremity - thigh/knee,female,2010,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.is.a3k6,value,55,1,858,NA,gynecological - uterus,female,2000,NA,leiomyosarcoma (lms),r2,white,NA
+tcga.is.a3k8,value,44,0,NA,4845,gynecological - uterus,female,2002,no,leiomyosarcoma (lms),r0,white,NA
+tcga.iw.a3m6,value,59,0,NA,688,gynecological - uterus,female,2011,no,leiomyosarcoma (lms),r0,asian,not hispanic or latino
+tcga.kf.a41w,value,71,0,NA,356,gynecological - uterus,female,2012,no,leiomyosarcoma (lms),rx,white,not hispanic or latino
+tcga.li.a9qh,value,72,1,540,NA,lower extremity - lower leg/calf,female,2013,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r2,white,not hispanic or latino
+tcga.mb.a5y9,value,90,0,NA,252,lower extremity - lower leg/calf,male,2012,no,undifferentiated pleomorphic sarcoma (ups),r1,white,not hispanic or latino
+tcga.pc.a5dm,value,73,1,193,NA,lower extremity - other (please specify,male,2005,yes,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.pc.a5dp,value,72,1,550,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2007,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.qc.a6fx,value,68,0,NA,637,superficial trunk - back,male,2013,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.qq.a8vb,value,68,0,NA,5723,superficial trunk - buttock,female,1998,no,malignant peripheral nerve sheath tumors (mpnst),rx,white,NA
+tcga.sg.a849,value,78,0,NA,533,upper extremity - upper arm/elbow,male,2013,yes,undifferentiated pleomorphic sarcoma (ups),r1,white,not hispanic or latino
+tcga.vt.a80j,value,49,0,NA,796,lower extremity - lower leg/calf,female,2012,no,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
+tcga.wk.a8xt,value,40,1,1262,NA,retroperitoneum/upper abdominal - kidney,female,2008,no,synovial sarcoma - monophasic,r0,white,not hispanic or latino
+tcga.x6.a8c6,value,55,1,1067,NA,lower extremity - thigh/knee,male,2011,yes,myxofibrosarcoma,r1,white,not hispanic or latino
+tcga.3b.a9hi,value,68,0,NA,1521,upper extremity - upper arm/elbow,male,2009,yes,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.3b.a9hl,value,67,1,599,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2011,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.3b.a9hp,value,57,1,1627,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2007,yes,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.3b.a9hq,value,66,0,NA,2085,retroperitoneum/upper abdominal - retroperitoneum,female,2007,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.3b.a9hr,value,38,1,2694,NA,lower extremity - thigh/knee,female,2007,yes,leiomyosarcoma (lms),r0,black or african american,not hispanic or latino
+tcga.3b.a9hs,value,60,1,1366,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2008,yes,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.3b.a9ht,value,53,0,NA,1665,head and neck - other (please specify,male,2010,yes,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.3b.a9hu,value,53,0,NA,768,retroperitoneum/upper abdominal - retroperitoneum,female,2010,no,leiomyosarcoma (lms),r0,black or african american,not hispanic or latino
+tcga.3b.a9hv,value,48,1,437,NA,gynecological - uterus,female,2010,no,leiomyosarcoma (lms),rx,white,not hispanic or latino
+tcga.3b.a9hx,value,70,0,NA,1303,retroperitoneum/upper abdominal - colon,female,2011,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.3b.a9hy,value,49,0,NA,314,lower extremity - thigh/knee,male,2011,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.3b.a9hz,value,66,0,NA,1170,chest - mediastinum,male,2011,yes,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.3b.a9i0,value,33,0,NA,1096,retroperitoneum/upper abdominal - retroperitoneum,male,2011,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.3b.a9i1,value,56,1,567,NA,gynecological - uterus,female,2012,no,leiomyosarcoma (lms),rx,black or african american,not hispanic or latino
+tcga.3b.a9i3,value,62,0,NA,808,retroperitoneum/upper abdominal - retroperitoneum,male,2012,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.3r.a8yx,value,66,1,17,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2013,no,dedifferentiated liposarcoma,r2,NA,NA
+tcga.dx.a1ku,value,82,1,427,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2010,no,dedifferentiated liposarcoma,r2,white,not hispanic or latino
+tcga.dx.a1kw,value,67,1,995,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2009,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a1kx,value,67,0,NA,2087,lower abdominal/pelvic - pelvic,female,2009,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a1ky,value,66,1,391,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2009,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a1kz,value,66,0,NA,1372,retroperitoneum/upper abdominal - retroperitoneum,male,2009,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a1l0,value,58,1,564,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2008,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a1l1,value,60,1,1649,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2008,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a1l2,value,78,0,NA,2586,retroperitoneum/upper abdominal - retroperitoneum,male,2008,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a1l3,value,60,1,1020,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2009,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a1l4,value,60,0,NA,2036,retroperitoneum/upper abdominal - retroperitoneum,male,2009,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a23r,value,55,0,NA,2271,retroperitoneum/upper abdominal - retroperitoneum,female,2002,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a23t,value,40,1,160,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2006,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a23u,value,81,1,2324,NA,lower abdominal/pelvic - pelvic,male,2003,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a23v,value,57,1,2034,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2003,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a23y,value,80,1,191,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2006,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a23z,value,74,1,846,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2006,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a240,value,51,0,NA,1834,lower abdominal/pelvic - spermatic cord,male,2006,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a2iz,value,60,0,NA,261,retroperitoneum/upper abdominal - retroperitoneum,male,2007,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a2j0,value,61,1,295,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2005,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a2j1,value,53,0,NA,2901,retroperitoneum/upper abdominal - retroperitoneum,male,2007,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a2j4,value,60,0,NA,2408,retroperitoneum/upper abdominal - intraabdominal,male,2008,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a3ls,value,78,1,275,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2011,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a3lt,value,62,0,NA,1492,upper extremity - upper arm/elbow,male,2011,yes,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a3lu,value,60,0,NA,2641,retroperitoneum/upper abdominal - retroperitoneum,male,2007,yes,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a3lw,value,43,0,NA,4150,retroperitoneum/upper abdominal - retroperitoneum,male,2004,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a3ly,value,66,0,NA,1017,retroperitoneum/upper abdominal - retroperitoneum,male,2011,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a3m1,value,79,0,NA,1359,retroperitoneum/upper abdominal - retroperitoneum,male,2010,no,dedifferentiated liposarcoma,r2,white,not hispanic or latino
+tcga.dx.a3u5,value,52,0,NA,969,retroperitoneum/upper abdominal - retroperitoneum,male,2011,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a3u6,value,63,1,1088,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2011,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a3u7,value,67,1,1552,NA,lower extremity - thigh/knee,male,2009,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a3u8,value,43,1,138,NA,lower abdominal/pelvic - spermatic cord,male,2010,no,leiomyosarcoma (lms),r0,NA,NA
+tcga.dx.a3u9,value,84,1,456,NA,lower abdominal/pelvic - other (please specify,male,2005,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.dx.a3ua,value,47,1,325,NA,lower extremity - foot/ankle,female,2009,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a3ub,value,54,0,NA,2247,retroperitoneum/upper abdominal - small intestines,male,2009,no,leiomyosarcoma (lms),r0,white,NA
+tcga.dx.a3uc,value,37,0,NA,2085,retroperitoneum/upper abdominal - retroperitoneum,female,2009,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a3ud,value,56,0,NA,1534,retroperitoneum/upper abdominal - kidney,male,2010,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a3ue,value,66,1,1061,NA,superficial trunk - back,female,2007,yes,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a3uf,value,65,1,2599,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2007,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.dx.a48j,value,44,1,296,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2003,no,leiomyosarcoma (lms),r0,black or african american,not hispanic or latino
+tcga.dx.a48k,value,65,0,NA,1399,lower extremity - lower leg/calf,male,2011,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a48l,value,49,1,738,NA,lower extremity - lower leg/calf,female,2010,yes,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a48n,value,47,0,NA,1073,retroperitoneum/upper abdominal - retroperitoneum,male,2012,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a48o,value,63,0,NA,1605,retroperitoneum/upper abdominal - retroperitoneum,female,2010,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a48p,value,54,0,NA,1400,retroperitoneum/upper abdominal - retroperitoneum,female,2011,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a48r,value,41,0,NA,805,retroperitoneum/upper abdominal - retroperitoneum,male,2002,no,leiomyosarcoma (lms),r1,white,NA
+tcga.dx.a48u,value,57,0,NA,3310,retroperitoneum/upper abdominal - retroperitoneum,male,2005,no,leiomyosarcoma (lms),r0,white,NA
+tcga.dx.a48v,value,78,0,NA,1820,retroperitoneum/upper abdominal - retroperitoneum,male,2010,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a6b7,value,55,0,NA,1143,retroperitoneum/upper abdominal - colon,male,2012,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a6b8,value,80,1,485,NA,upper extremity - shoulder/axilla,male,2002,yes,leiomyosarcoma (lms),r0,white,NA
+tcga.dx.a6b9,value,45,0,NA,1138,retroperitoneum/upper abdominal - colon,female,2012,no,leiomyosarcoma (lms),r0,black or african american,not hispanic or latino
+tcga.dx.a6ba,value,53,0,NA,2515,lower abdominal/pelvic - pelvic,female,2008,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a6bb,value,74,0,NA,1105,lower abdominal/pelvic - pelvic,male,2012,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.dx.a6be,value,77,0,NA,881,retroperitoneum/upper abdominal - retroperitoneum,male,2011,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a6bf,value,82,0,NA,972,retroperitoneum/upper abdominal - retroperitoneum,female,2012,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a6bg,value,51,0,NA,1121,retroperitoneum/upper abdominal - retroperitoneum,male,2012,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a6bh,value,34,0,NA,821,lower abdominal/pelvic - pelvic,male,2012,no,dedifferentiated liposarcoma,r1,white,not hispanic or latino
+tcga.dx.a6yq,value,86,1,93,NA,lower extremity - other (please specify,female,2011,no,myxofibrosarcoma,r0,NA,not hispanic or latino
+tcga.dx.a6yr,value,75,0,NA,1247,chest - chest wall,male,2011,yes,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.a6ys,value,61,0,NA,2381,lower extremity - other (please specify,male,2008,yes,myxofibrosarcoma,r0,white,NA
+tcga.dx.a6yv,value,74,1,1536,NA,lower extremity - thigh/knee,male,2008,no,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.a6yx,value,68,1,513,NA,lower extremity - thigh/knee,female,2005,yes,myxofibrosarcoma,r0,NA,NA
+tcga.dx.a6yz,value,59,0,NA,2625,lower extremity - thigh/knee,male,2007,yes,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.a6z0,value,78,1,1953,NA,lower extremity - thigh/knee,female,2006,yes,myxofibrosarcoma,r1,white,NA
+tcga.dx.a6z2,value,82,0,NA,3079,retroperitoneum/upper abdominal - retroperitoneum,female,2007,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a7ef,value,88,1,648,NA,lower extremity - thigh/knee,female,2005,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.a7ei,value,78,1,1049,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2003,no,dedifferentiated liposarcoma,r1,white,NA
+tcga.dx.a7em,value,61,0,NA,1892,retroperitoneum/upper abdominal - retroperitoneum,male,2010,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a7en,value,53,0,NA,923,retroperitoneum/upper abdominal - retroperitoneum,female,2012,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.dx.a7eo,value,20,0,NA,4627,superficial trunk - flank,female,2002,yes,synovial sarcoma - biphasic,r0,white,hispanic or latino
+tcga.dx.a7eq,value,72,1,897,NA,lower extremity - thigh/knee,male,2006,yes,synovial sarcoma - monophasic,r0,white,NA
+tcga.dx.a7er,value,69,1,1466,NA,chest - lung/pleura,male,2008,no,synovial sarcoma - monophasic,r0,white,NA
+tcga.dx.a7es,value,50,0,NA,610,retroperitoneum/upper abdominal - retroperitoneum,female,2013,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bj,value,76,1,284,NA,chest - chest wall,male,2011,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bk,value,61,0,NA,1885,lower extremity - thigh/knee,female,2009,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bl,value,59,0,NA,1373,upper extremity - shoulder/axilla,male,2011,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bm,value,60,0,NA,1456,lower extremity - thigh/knee,male,2011,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bn,value,78,0,NA,1161,lower extremity - thigh/knee,female,2011,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r1,white,not hispanic or latino
+tcga.dx.a8bo,value,67,0,NA,1240,lower extremity - lower leg/calf,female,2011,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r1,white,not hispanic or latino
+tcga.dx.a8bq,value,63,0,NA,1579,lower extremity - thigh/knee,male,2010,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.a8br,value,63,0,NA,4573,lower extremity - thigh/knee,female,2002,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bs,value,68,1,850,NA,lower extremity - thigh/knee,female,2006,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,black or african american,not hispanic or latino
+tcga.dx.a8bt,value,63,0,NA,1230,upper extremity - shoulder/axilla,female,2011,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r1,white,not hispanic or latino
+tcga.dx.a8bu,value,58,1,1116,NA,lower extremity - thigh/knee,male,2006,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r1,white,NA
+tcga.dx.a8bv,value,57,1,1845,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2004,yes,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.a8bx,value,52,1,591,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2006,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,hispanic or latino
+tcga.dx.a8bz,value,78,1,200,NA,superficial trunk - buttock,female,2013,no,leiomyosarcoma (lms),r0,black or african american,not hispanic or latino
+tcga.dx.aats,value,72,1,35,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2008,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r1,white,not hispanic or latino
+tcga.dx.ab2e,value,60,0,NA,541,upper extremity - shoulder/axilla,male,2013,no,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.ab2f,value,76,0,NA,365,retroperitoneum/upper abdominal - retroperitoneum,female,2013,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.ab2g,value,36,0,NA,478,retroperitoneum/upper abdominal - retroperitoneum,male,2013,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.dx.ab2l,value,35,0,NA,2007,lower extremity - thigh/knee,male,2009,no,myxofibrosarcoma,r1,white,NA
+tcga.dx.ab2o,value,78,0,NA,2619,lower extremity - lower leg/calf,female,2007,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.ab2q,value,65,0,NA,2030,lower extremity - lower leg/calf,female,2009,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,hispanic or latino
+tcga.dx.ab2s,value,53,0,NA,280,superficial trunk - back,female,2005,yes,myxofibrosarcoma,r0,white,hispanic or latino
+tcga.dx.ab2t,value,54,0,NA,2369,lower extremity - thigh/knee,female,2008,no,myxofibrosarcoma,r0,black or african american,not hispanic or latino
+tcga.dx.ab2v,value,81,0,NA,3241,superficial trunk - back,male,2006,yes,myxofibrosarcoma,r0,white,not hispanic or latino
+tcga.dx.ab2z,value,87,0,NA,1533,lower extremity - thigh/knee,female,2010,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r0,white,not hispanic or latino
+tcga.dx.ab3b,value,28,0,NA,1548,lower extremity - foot/ankle,female,2009,no,synovial sarcoma - monophasic,r0,white,not hispanic or latino
+tcga.dx.ab3c,value,27,0,NA,2169,lower extremity - thigh/knee,male,2008,yes,synovial sarcoma - monophasic,r0,white,not hispanic or latino
+tcga.fx.a2qs,value,61,0,NA,1495,retroperitoneum/upper abdominal - other (please specify,female,2011,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.fx.a3nj,value,54,0,NA,947,retroperitoneum/upper abdominal - kidney,male,2011,NA,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.fx.a3re,value,65,0,NA,660,gynecological - ovary,female,2011,no,leiomyosarcoma (lms),rx,white,not hispanic or latino
+tcga.fx.a3to,value,87,0,NA,618,retroperitoneum/upper abdominal - retroperitoneum,male,2012,no,undifferentiated pleomorphic sarcoma (ups),r1,white,not hispanic or latino
+tcga.fx.a48g,value,56,1,605,NA,gynecological - uterus,female,2011,no,leiomyosarcoma (lms),rx,white,not hispanic or latino
+tcga.fx.a76y,value,49,0,NA,471,gynecological - uterus,female,2013,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.fx.a8oo,value,31,1,245,NA,chest - lung/pleura,female,2013,no,sarcoma; synovial; poorly differentiated,r0,white,not hispanic or latino
+tcga.hb.a2ot,value,78,0,NA,2057,lower extremity - thigh/knee,female,2009,yes,undifferentiated pleomorphic sarcoma (ups),r0,black or african american,not hispanic or latino
+tcga.hb.a3l4,value,46,1,1061,NA,gynecological - uterus,female,2009,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.hb.a3yv,value,75,1,139,NA,retroperitoneum/upper abdominal - kidney,male,2012,yes,undifferentiated pleomorphic sarcoma (ups),r1,white,not hispanic or latino
+tcga.hs.a5n7,value,67,0,NA,1013,retroperitoneum/upper abdominal - retroperitoneum,female,NA,yes,leiomyosarcoma (lms),r0,NA,NA
+tcga.hs.a5n8,value,69,1,22,NA,gynecological - uterus,female,NA,no,leiomyosarcoma (lms),r2,NA,NA
+tcga.hs.a5na,value,65,0,NA,298,gynecological - uterus,female,NA,yes,leiomyosarcoma (lms),rx,NA,NA
+tcga.ie.a3ov,value,42,1,2448,NA,lower extremity - thigh/knee,male,2004,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.ie.a4ei,value,67,0,NA,594,lower extremity - thigh/knee,female,2012,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.ie.a4ej,value,84,0,NA,98,lower extremity - thigh/knee,female,2012,NA,undifferentiated pleomorphic sarcoma (ups),r1,white,not hispanic or latino
+tcga.ie.a4ek,value,54,0,NA,42,retroperitoneum/upper abdominal - kidney,male,2012,NA,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.ie.a6bz,value,65,0,NA,605,superficial trunk - buttock,female,2012,no,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
+tcga.if.a3rq,value,70,1,1129,NA,retroperitoneum/upper abdominal - retroperitoneum,female,1998,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.if.a4aj,value,80,1,767,NA,lower extremity - lower leg/calf,male,1995,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.is.a3k7,value,63,0,NA,5204,gynecological - uterus,female,2000,no,leiomyosarcoma (lms),r0,white,NA
+tcga.is.a3ka,value,73,1,413,NA,gynecological - uterus,female,2004,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.iw.a3m4,value,48,0,NA,2615,gynecological - uterus,female,2005,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.iw.a3m5,value,76,1,180,NA,gynecological - uterus,female,2010,no,leiomyosarcoma (lms),r0,white,NA
+tcga.jv.a5ve,value,60,0,NA,499,lower abdominal/pelvic - pelvic,female,2012,no,leiomyosarcoma (lms),r0,black or african american,not hispanic or latino
+tcga.jv.a5vf,value,69,1,32,NA,lower abdominal/pelvic - pelvic,female,2012,no,leiomyosarcoma (lms),r2,black or african american,not hispanic or latino
+tcga.jv.a75j,value,43,1,119,NA,gynecological - uterus,female,2013,no,leiomyosarcoma (lms),r2,white,hispanic or latino
+tcga.k1.a3pn,value,64,0,NA,3080,gynecological - uterus,female,2006,yes,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.k1.a3po,value,42,0,NA,1622,lower abdominal/pelvic - bladder,male,2010,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.k1.a42w,value,65,0,NA,1891,retroperitoneum/upper abdominal - pancreas,female,2009,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.k1.a42x,value,62,0,NA,3765,gynecological - uterus,female,2003,no,leiomyosarcoma (lms),r0,white,NA
+tcga.k1.a6rt,value,48,0,NA,528,lower extremity - thigh/knee,male,2012,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.k1.a6ru,value,66,1,711,NA,lower extremity - thigh/knee,female,2013,yes,myxofibrosarcoma,r1,white,not hispanic or latino
+tcga.k1.a6rv,value,67,0,NA,158,lower extremity - thigh/knee,male,2013,yes,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.kd.a5qs,value,55,1,1941,NA,gynecological - uterus,female,2009,no,leiomyosarcoma (lms),rx,white,not hispanic or latino
+tcga.kd.a5qt,value,69,0,NA,499,gynecological - uterus,female,2010,NA,leiomyosarcoma (lms),r0,NA,NA
+tcga.kd.a5qu,value,41,1,1073,NA,gynecological - uterus,female,2010,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.li.a67i,value,75,0,NA,922,lower extremity - thigh/knee,female,2013,yes,myxofibrosarcoma,rx,white,not hispanic or latino
+tcga.mb.a5y8,value,60,0,NA,773,lower extremity - lower leg/calf,female,2012,yes,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
+tcga.mb.a5ya,value,63,0,NA,15,retroperitoneum/upper abdominal - colon,male,2012,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.mb.a8jk,value,49,0,NA,661,lower extremity - thigh/knee,male,2013,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,rx,white,not hispanic or latino
+tcga.mb.a8jl,value,53,0,NA,600,chest - breast,female,2013,no,leiomyosarcoma (lms),r0,white,NA
+tcga.mj.a68h,value,57,0,NA,456,lower abdominal/pelvic - other (please specify,female,2013,no,leiomyosarcoma (lms),r0,black or african american,not hispanic or latino
+tcga.mj.a68j,value,55,0,NA,547,lower extremity - lower leg/calf,female,2012,yes,myxofibrosarcoma,r1,black or african american,not hispanic or latino
+tcga.mj.a850,value,28,0,NA,681,head and neck - neck,male,2013,yes,synovial sarcoma - monophasic,rx,white,not hispanic or latino
+tcga.mo.a47p,value,37,0,NA,352,retroperitoneum/upper abdominal - kidney,female,2012,no,dedifferentiated liposarcoma,r0,asian,not hispanic or latino
+tcga.mo.a47r,value,75,1,318,NA,retroperitoneum/upper abdominal - intraabdominal,female,2010,no,leiomyosarcoma (lms),r0,asian,not hispanic or latino
+tcga.n1.a6ia,value,41,1,224,NA,gynecological - uterus,female,2011,no,leiomyosarcoma (lms),rx,black or african american,not hispanic or latino
+tcga.pc.a5dk,value,63,0,NA,3740,retroperitoneum/upper abdominal - retroperitoneum,male,2004,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.pc.a5dl,value,67,1,1142,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2004,no,leiomyosarcoma (lms),rx,white,not hispanic or latino
+tcga.pc.a5dn,value,77,1,1175,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2005,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.pc.a5do,value,59,1,2464,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2006,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.pt.a8tr,value,57,0,NA,813,gynecological - uterus,female,2013,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.qc.a7b5,value,75,0,NA,398,head and neck - head,male,2013,no,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,rx,white,not hispanic or latino
+tcga.qc.aa9n,value,53,0,NA,537,superficial trunk - buttock,female,2013,no,undifferentiated pleomorphic sarcoma (ups),rx,black or african american,not hispanic or latino
+tcga.qq.a5v2,value,42,0,NA,56,lower abdominal/pelvic - pelvic,male,2006,NA,giant cell 'mfh' / undifferentiated pleomorphic sarcoma with giant cells,r1,white,not hispanic or latino
+tcga.qq.a5v9,value,76,1,1424,NA,retroperitoneum/upper abdominal - retroperitoneum,male,1997,no,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
+tcga.qq.a5va,value,60,1,550,NA,retroperitoneum/upper abdominal - retroperitoneum,female,1996,no,dedifferentiated liposarcoma,rx,white,not hispanic or latino
+tcga.qq.a5vb,value,53,1,1478,NA,lower extremity - groin,female,1994,no,leiomyosarcoma (lms),r1,white,NA
+tcga.qq.a5vc,value,63,0,NA,1092,lower extremity - thigh/knee,female,2011,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.qq.a5vd,value,52,0,NA,1129,lower extremity - foot/ankle,male,2011,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.qq.a8vd,value,56,0,NA,3964,retroperitoneum/upper abdominal - intraabdominal,male,2003,no,desmoid tumor,rx,white,not hispanic or latino
+tcga.qq.a8vf,value,70,0,NA,3406,lower extremity - lower leg/calf,male,2005,no,leiomyosarcoma (lms),rx,white,not hispanic or latino
+tcga.qq.a8vg,value,52,1,1970,NA,superficial trunk - back,male,2009,no,malignant peripheral nerve sheath tumors (mpnst),rx,white,not hispanic or latino
+tcga.qq.a8vh,value,31,1,320,NA,chest - other (please specify,female,2010,yes,malignant peripheral nerve sheath tumors (mpnst),rx,white,not hispanic or latino
+tcga.rn.a68q,value,62,0,NA,22,head and neck - other (please specify,female,2010,no,malignant peripheral nerve sheath tumors (mpnst),rx,white,not hispanic or latino
+tcga.rn.aaaq,value,52,0,NA,510,upper extremity - shoulder/axilla,male,2013,yes,malignant peripheral nerve sheath tumors (mpnst),NA,white,not hispanic or latino
+tcga.sg.a6z4,value,47,0,NA,576,lower extremity - thigh/knee,male,2013,yes,pleomorphic 'mfh' / undifferentiated pleomorphic sarcoma,r1,white,not hispanic or latino
+tcga.sg.a6z7,value,44,1,118,NA,retroperitoneum/upper abdominal - kidney,female,2004,no,dedifferentiated liposarcoma,rx,white,not hispanic or latino
+tcga.si.a71o,value,29,1,694,NA,lower extremity - other (please specify,male,2013,yes,malignant peripheral nerve sheath tumors (mpnst),rx,white,not hispanic or latino
+tcga.si.a71p,value,50,0,NA,771,NA,male,2012,yes,malignant peripheral nerve sheath tumors (mpnst),rx,white,not hispanic or latino
+tcga.si.a71q,value,34,0,NA,996,chest - chest wall,female,2012,yes,malignant peripheral nerve sheath tumors (mpnst),r0,black or african american,not hispanic or latino
+tcga.si.aa8b,value,80,1,262,NA,lower extremity - thigh/knee,female,2013,no,undifferentiated pleomorphic sarcoma (ups),r1,white,not hispanic or latino
+tcga.si.aa8c,value,20,0,NA,597,lower extremity - thigh/knee,female,2013,yes,malignant peripheral nerve sheath tumors (mpnst),r1,white,not hispanic or latino
+tcga.ue.a6qt,value,50,0,NA,402,head and neck - head,female,2013,no,undifferentiated pleomorphic sarcoma (ups),r0,asian,not hispanic or latino
+tcga.ue.a6qu,value,90,0,NA,408,upper extremity - shoulder/axilla,female,2013,no,undifferentiated pleomorphic sarcoma (ups),r0,asian,not hispanic or latino
+tcga.vt.a80g,value,66,0,NA,326,lower extremity - other (please specify,male,2013,yes,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
+tcga.vt.ab3d,value,71,0,NA,379,upper extremity - upper arm/elbow,male,2013,yes,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
+tcga.wk.a8xo,value,66,1,363,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2010,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.wk.a8xq,value,57,1,146,NA,retroperitoneum/upper abdominal - intraabdominal,male,2009,no,dedifferentiated liposarcoma,r2,white,NA
+tcga.wk.a8xs,value,58,0,NA,2579,retroperitoneum/upper abdominal - gastric,female,2008,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.wk.a8xx,value,70,1,1164,NA,retroperitoneum/upper abdominal - retroperitoneum,male,2007,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.wk.a8xy,value,53,1,1991,NA,retroperitoneum/upper abdominal - small intestines,female,2007,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.wk.a8xz,value,56,1,1722,NA,retroperitoneum/upper abdominal - retroperitoneum,female,2007,yes,leiomyosarcoma (lms),r0,white,NA
+tcga.wk.a8y0,value,49,1,688,NA,chest - chest wall,female,2010,yes,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
+tcga.wp.a9gb,value,NA,1,261,NA,gynecological - uterus,female,2012,no,leiomyosarcoma (lms),rx,white,not hispanic or latino
+tcga.x2.a95t,value,49,0,NA,1927,gynecological - uterus,female,2009,no,leiomyosarcoma (lms),r0,white,NA
+tcga.x6.a7w8,value,89,1,804,NA,lower extremity - thigh/knee,male,2011,yes,myxofibrosarcoma,r1,white,not hispanic or latino
+tcga.x6.a7wa,value,90,0,NA,1092,chest - other (please specify,female,2012,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.x6.a7wb,value,58,1,550,NA,gynecological - uterus,female,2011,no,leiomyosarcoma (lms),r1,white,not hispanic or latino
+tcga.x6.a7wc,value,74,0,NA,1379,lower extremity - thigh/knee,male,2011,yes,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.x6.a7wd,value,63,0,NA,938,lower extremity - lower leg/calf,female,2013,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.x6.a8c2,value,56,0,NA,1070,lower extremity - lower leg/calf,male,2012,yes,undifferentiated pleomorphic sarcoma (ups),r1,white,not hispanic or latino
+tcga.x6.a8c3,value,59,0,NA,583,lower extremity - lower leg/calf,female,2013,yes,myxofibrosarcoma,r1,asian,not hispanic or latino
+tcga.x6.a8c4,value,70,1,628,NA,lower extremity - lower leg/calf,female,2013,yes,undifferentiated pleomorphic sarcoma (ups),r1,white,not hispanic or latino
+tcga.x6.a8c5,value,63,0,NA,1547,retroperitoneum/upper abdominal - small intestines,female,2011,no,leiomyosarcoma (lms),r0,black or african american,not hispanic or latino
+tcga.x6.a8c7,value,24,0,NA,896,lower extremity - foot/ankle,female,2013,yes,synovial sarcoma - biphasic,r0,white,not hispanic or latino
+tcga.x9.a971,value,52,0,NA,831,upper extremity - shoulder/axilla,female,2013,no,leiomyosarcoma (lms),r0,white,not hispanic or latino
+tcga.x9.a973,value,55,0,NA,1108,lower abdominal/pelvic - pelvic,male,2011,no,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
+tcga.z4.a8jb,value,24,0,NA,133,retroperitoneum/upper abdominal - retroperitoneum,female,2013,no,desmoid tumor,r0,white,not hispanic or latino
+tcga.z4.a9vc,value,37,0,NA,407,lower extremity - thigh/knee,male,2013,no,dedifferentiated liposarcoma,r0,white,not hispanic or latino
+tcga.z4.aapf,value,35,0,NA,485,upper extremity - upper arm/elbow,female,2013,no,sarcoma; synovial; poorly differentiated,r0,white,not hispanic or latino
+tcga.z4.aapg,value,64,0,NA,486,retroperitoneum/upper abdominal - retroperitoneum,female,2013,no,undifferentiated pleomorphic sarcoma (ups),r0,white,not hispanic or latino
