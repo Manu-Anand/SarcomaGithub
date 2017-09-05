@@ -2,7 +2,7 @@
 
 This repository contains the necessary files for Sarcoma classification project, that classifies sarcoma cancers based on DNA methylation profiles from TCGA dataset.
 
-This project has dependancies on Anaconda 4.3.14 Jupiter note book, python 3.6, R, XGBoost, Hypertools, seaboard python packages and MeDeCom libraries.
+This project has dependancies on Anaconda 4.3.14 Jupiter note book, python 3.6, R, XGBoost, Hypertools, seaborn python packages and MeDeCom libraries.
 
 Installation instructions:
 
